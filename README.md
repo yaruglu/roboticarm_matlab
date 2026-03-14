@@ -1,2 +1,2 @@
 # roboticarm_matlab
-basic trajectories , mgi and mgd, closed loop and open loop control.
+4 degrees of freedom, revolute joints, basic trajectories , mgi and mgd, closed loop and open loop control.
